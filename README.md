@@ -1,5 +1,5 @@
 # Keychron k2 pro cheatsheet
-A keyboard shortcut cheatsheet for the keychron k2 pro wireless keyboard with the aluminum frame and rgb backlighting.
+A keyboard shortcut cheatsheet for the keychron k2 pro wireless keyboard with rgb backlighting.
 
 ## Shortcuts
 | desc | keys |
